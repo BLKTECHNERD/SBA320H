@@ -4,7 +4,7 @@ Welcome to Bookshelf+! This is a web application that allows users to search for
 
 ## Live Site
 
-[Visit the Live Site](#) *(Replace this with the actual link to your deployed application)*
+(https://courageous-boba-2a880f.netlify.app/)
 
 ## Technologies Used
 
