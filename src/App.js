@@ -393,7 +393,6 @@ function App() {
             margin: "0 auto",
             marginBottom: "20px",
             color: "#000000",
-            color: paragraphColor,
             fontSize: "35px"
           }}
         >
@@ -406,7 +405,6 @@ function App() {
             margin: "0 auto",
             marginBottom: "20px",
             color: "#000000",
-            color: paragraphColor,
             fontSize: "18px"
           }}
         >
