@@ -363,7 +363,6 @@ function App() {
   }, [theme]);
 
   const linkColor = isDarkTheme ? "#ffffff" : "#000000";
-  const paragraphColor = isDarkTheme ? "#ffffff" : "#000000";
 
   return (
     <Router>
