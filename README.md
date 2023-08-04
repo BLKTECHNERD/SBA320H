@@ -4,7 +4,6 @@ Welcome to Bookshelf+! This is a web application that allows users to search for
 
 ## Live Site
 
-(http://10.0.0.100:3000/)
 
 ## Technologies Used
 
