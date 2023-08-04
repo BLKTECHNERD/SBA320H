@@ -414,7 +414,7 @@ function App() {
           our extensive collection of books. Search, discover, and curate your
           reading list with ease. Whether you're a seasoned bookworm or just
           starting your literary journey, Bookshelf+ has something for everyone.
-          Register or log in to embark on your reading journey and create your
+          Register or log in below to embark on your reading journey and create your
           personalized virtual bookshelf today!
         </p>
 
