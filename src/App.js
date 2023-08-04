@@ -92,7 +92,7 @@ const bookStyles = {
   },
 
   // Style for each book item
-  bookItem: {
+  bookItemStyle: { // Use a unique key for this style, e.g., bookItemStyle
     flex: "0 0 200px",
     margin: "10px", 
     padding: "10px",
@@ -101,6 +101,7 @@ const bookStyles = {
     boxShadow: "0 2px 6px rgba(0, 0, 0, 0.1)",
   },
 };
+
 
 const users = {};
 
