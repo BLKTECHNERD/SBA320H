@@ -1,17 +1,13 @@
-// src/index.js
-
 import React from "react";
 import ReactDOM from "react-dom";
-import { Provider } from "react-redux";
-import store from "./store"; // Correct the relative path if needed
-
 import App from "./App";
+import { ThemeProvider } from "./ThemeContext";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Provider store={store}>
+    <ThemeProvider>
       <App />
-    </Provider>
+    </ThemeProvider>
   </React.StrictMode>,
   document.getElementById("root")
 );

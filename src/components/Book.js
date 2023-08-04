@@ -1,5 +1,3 @@
-// src/components/Book.js
-
 import React from "react";
 import { useSelector } from "react-redux";
 
